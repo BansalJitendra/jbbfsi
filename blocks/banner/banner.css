@@ -6,7 +6,9 @@
 .banner {
     position: relative;
 }
-
+.banner-content {
+    margin: 20px 0 20px 0;
+}
 .banner-pic picture {
     object-fit: cover;
     box-sizing: border-box;
