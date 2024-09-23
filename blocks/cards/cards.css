@@ -68,7 +68,7 @@
 }
 
 .fullwidth .cards-card-image {
-  padding-top: 100px;
+  /* padding-top: 100px;*/
   width: 100%;
 }
 
@@ -104,7 +104,7 @@
 }
 
 .fullwidth > ul > li:nth-child(odd) .cards-card-body{
-  padding: 0 40px;
+ /* padding: 0 40px; */
 }
 
 @media (min-width: 960px) {
