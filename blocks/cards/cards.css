@@ -98,7 +98,7 @@
   .fullwidth .cards-card-body {
   width: 660px;
   margin: 0;
-  margin-top: 50px;
+  /* margin-top: 50px; */
   box-sizing: border-box;
   }
 }
