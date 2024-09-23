@@ -80,7 +80,7 @@
   }
 
   .fullwidth .cards-card-image {
-    padding-top: 66px;
+    /* padding-top: 66px;*/
     width: 620px;
 }
 
@@ -90,7 +90,7 @@
 .fullwidth .cards-card-body {
   width: 100%;
   margin: 0;
-  margin-top: 50px;
+ /* margin-top: 50px; */
   box-sizing: border-box;
 }
 
